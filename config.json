@@ -1,6 +1,6 @@
 {
-    "is_on": true,
-    "is_banner": true, 
-    "clickToShowAds": 3,
-    "needPurchase": false
+    "isFeatureHide": true,
+    "countClickShowAds": 3, 
+    "needPurchase": false,
+    "makeCrash": false
 }
