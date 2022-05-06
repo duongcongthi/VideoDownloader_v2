@@ -5,5 +5,5 @@
     "makeCrash": false,
     "isDisableAdsBanner": false,
     "disableClosePurchase": false,
-    "needAlertAdsShow": true
+    "needAlertAdsShow": false
 }
