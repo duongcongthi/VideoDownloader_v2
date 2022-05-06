@@ -2,5 +2,8 @@
     "isFeatureHide": true,
     "countClickShowAds": 3, 
     "needPurchase": false,
-    "makeCrash": false
+    "makeCrash": false,
+    "isDisableAdsBanner": false,
+    "disableClosePurchase": false,
+    "needAlertAdsShow": false
 }
