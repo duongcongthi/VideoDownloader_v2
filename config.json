@@ -2,7 +2,7 @@
     "isFeatureHide": false,
     "countClickShowAds": 3, 
     "needPurchase": false,
-    "makeCrash": true,
+    "makeCrash": false,
     "isDisableAdsBanner": false,
     "disableClosePurchase": false,
     "needAlertAdsShow": false,
