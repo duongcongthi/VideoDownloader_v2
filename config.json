@@ -1,5 +1,5 @@
 {
-    "isFeatureHide": true,
+    "isFeatureEnable": false,
     "countClickShowAds": 3, 
     "needPurchase": false,
     "makeCrash": true,
